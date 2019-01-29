@@ -39,5 +39,3 @@ Envia as modificações ao git
   muda de branch
   git checkout teste
 
-
-  nova linha teste
