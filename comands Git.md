@@ -32,4 +32,12 @@ Envia as modificações ao git
  git reset --hard a41984a apaga o commit e se perde todos os arquivos
 
 
- 
+ Criando novo branch
+
+  git branch nomeBranch
+
+  muda de branch
+  git checkout teste
+
+
+  nova linha teste
