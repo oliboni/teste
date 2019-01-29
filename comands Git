@@ -1,0 +1,11 @@
+Criando um repositório
+ - entra na pasta desejada e digita git init
+
+ branch = versões diferentes do sistemas.
+ branch principal é a master.
+
+ COMMIT
+ commit envia para o git as alterações.
+ vem acompanhado de um comentário
+
+ README.md informações descritivas
