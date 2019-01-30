@@ -68,3 +68,11 @@ git revert --no--edit a41984a	- volta o commit para o anterior
 remover um branch remoto
  git push origin :teste
 
+remoto um	branch local	
+ git branch -D teste
+
+
+
+ teste	
+
+ 
