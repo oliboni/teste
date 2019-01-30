@@ -72,6 +72,7 @@ remoto um	branch local
  git branch -D teste
 
 
-
+trazendo do git remoto para o local "Atualizar o git local"
+git pull origin master
 
  
